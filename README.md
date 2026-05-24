@@ -3,7 +3,6 @@ A multi-disciplinary medical software ecosystem uniting **Vectorized Machine Lea
 
 ### 🌐 Live Deployment
 * **Interactive Production Dashboard:** [celiac-diagnostics-platform.streamlit.app](https://celiac-diagnostics-platform-jjnmmejmxsobz4khqcbgps.streamlit.app/)
-
 ---
 
 ### 🎯 Project Objective
